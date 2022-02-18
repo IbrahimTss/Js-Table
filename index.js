@@ -16,6 +16,8 @@ let students=[
      
 ]; 
 
+students.pop()
+
 
 
 let headers =['Name','Email','Pswd'];
